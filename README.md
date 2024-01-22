@@ -3,7 +3,7 @@
 
 <br>
 
-<h3>1. 가상환경 설정</h3>
+### 1. 가상환경 설정
 
 <br>
 
@@ -29,24 +29,19 @@ source '가상환경 이름/bin/activate'
 ```
 
 <br>
-
---- 
-
 <br>
 
-<h3>2. Open API 키 가져오기</h3>
+
+### 2. Open API 키 가져오기
 
 <br>
 
 openai.com 에서 가입하고 API 키 생성
 
 <br>
-
----
-
 <br>
 
-<h3>3. OpenAI Python 라이브러리 설치</h3>
+### 3. OpenAI Python 라이브러리 설치
 
 <br>
 
@@ -56,12 +51,9 @@ pip3 install openai
 ```
 
 <br>
-
----
-
 <br>
 
-<h3>4. API 키 설정</h3>
+### 4. API 키 설정
 
 <br>
 
@@ -73,12 +65,10 @@ export OPENAI_API_KEY="KEY"
 ```
 
 <br>
-
----
-
 <br>
 
-<h3>5. 파이썬 코드 작성 및 실행</h3>
+
+### 5. 파이썬 코드 작성 및 실행
 
 <br>
 
